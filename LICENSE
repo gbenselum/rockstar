@@ -1,0 +1,32 @@
+ROCKSTAR PERSONAL AND NON-COMMERCIAL USE LICENSE
+
+Copyright (c) 2026 Gabriel Benselum. All Rights Reserved.
+
+1. PERMITTED USE
+This software ("Rockstar") and its associated files and documentation is provided exclusively for personal, non-commercial, and testing purposes. You may use, study, and modify the software on your personal machines.
+
+2. RESTRICTIONS
+You may NOT:
+a) Use this software for any commercial purpose, including but not limited to selling the software, offering it as a paid service, or using it in a commercial studio setting for profit.
+b) Distribute, sublicense, or sell the software or derivative works based upon it.
+
+3. THIRD-PARTY COMPONENTS & LICENSES
+This software dynamically links to and incorporates source code from several open-source projects. Your use of this software is also subject to the terms of these underlying licenses:
+
+* Neural Amp Modeler Core (NAM)
+  Copyright (c) Steven Atkinson
+  License: MIT License
+  (See vendor/NeuralAmpModelerCore/LICENSE for details)
+
+* mod-cabsim-IR-loader
+  Copyright 2011-2012 David Robillard <d@drobilla.net>, Gabriel M. Beddingfield <gabriel@teuton.org>, James Morris <jwm.art.net@gmail.com>
+  License: ISC / MIT-like
+  Note: This project's GUI design intent is inspired by Guitarix (GPLv2), but the compiled source herein relies on mod-cabsim's permissive convolutions.
+
+* FFTW3
+  Copyright (c) 2003, 2007-14 Matteo Frigo, Copyright (c) 2003, 2007-14 Massachusetts Institute of Technology.
+  License: GNU General Public License v2.0 or later (GPLv2+)
+  Note: Because this software binds to FFTW3, any distribution of this software in binary form must legally comply with the GPL. Because of this, public distribution is restricted as per Section 2.
+
+4. DISCLAIMER OF WARRANTY
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
